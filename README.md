@@ -15,3 +15,7 @@ Run cryptor.exe and create your own build.
 +Protection from a virtual machine
 
 +Mutation (random) code (curve)
+
+
+# Support 
+bc1q3jf3uzpe6sk00rd9xptmthtty86qlu7u9h5cq3
