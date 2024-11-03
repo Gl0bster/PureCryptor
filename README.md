@@ -3,6 +3,8 @@ Cryptor in C ++ WITHOUT using .NET and other nonsense.
 
 # How to use it?
 
+Password for the archive is - 123
+
 Run cryptor.exe and create your own build. 
 
 
